@@ -2,11 +2,11 @@
 * [Coursera Website](https://www.coursera.org/learn/algorithms-part1)
 
 # Assignments
-* [Programming Assignment 1: Percolation](http://coursera.cs.princeton.edu/algs4/assignments/percolation.html)
-* [Programming Assignment 2: Deques and Randomized Queues](http://coursera.cs.princeton.edu/algs4/assignments/queues.html)
-* [Programming Assignment 3: Pattern Recognition](http://coursera.cs.princeton.edu/algs4/assignments/collinear.html)
-* [Programming Assignment 4: 8 Puzzle](http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html)
-* [Programming Assignment 5: Kd-Trees](http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html)
+* [Programming Assignment 1: Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
+* [Programming Assignment 2: Deques and Randomized Queues](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)
+* [Programming Assignment 3: Pattern Recognition](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)
+* [Programming Assignment 4: 8 Puzzle](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)
+* [Programming Assignment 5: Kd-Trees](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php)
 
 # Compile
 ```
@@ -36,7 +36,7 @@ $ java-algs4 FastCollinearPoints input100.txt
 ```
 
 * MP4:
-For this MP, it is highly recommanded to read [checklists](http://coursera.cs.princeton.edu/algs4/checklists/8puzzle.html).
+For this MP, it is highly recommanded to read [FAQ](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/faq.php).
 ```
 $ zip 8puzzle-submit.zip Board.java Solver.java
 $ java-algs4 Solver puzzle04.txt
@@ -44,7 +44,7 @@ $ java-algs4 -Xmx1600m Solver puzzle30.txt
 ```
 
 * MP5:
-KdTree can refer to [BST](https://algs4.cs.princeton.edu/32bst/BST.java.html) and [checklists](http://coursera.cs.princeton.edu/algs4/checklists/kdtree.html).
+KdTree can refer to [BST](https://algs4.cs.princeton.edu/32bst/BST.java.html) and [FAQ](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/faq.php).
 ```
 $ zip kdtree-submit.zip PointSET.java KdTree.java
 $ java-algs4 -Xmx1600m PointSET input100K.txt
